@@ -33,7 +33,7 @@ Testing is performed using the xUnit framework, which provides a robust and flex
 ### Swagger
 
 Swagger is integrated into the project to provide interactive API.
-Swagger URL: `https://pinewood-backend-dev.azurewebsites.net/swagger`.
+Swagger URL: [https://pinewood-backend-dev.azurewebsites.net/swagger](https://pinewood-backend-dev.azurewebsites.net/swagger).
 
 ### Hosting Details
 
